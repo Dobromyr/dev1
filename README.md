@@ -1,4 +1,3 @@
 # Repo for DevOps courses
 
-
-on web
+on PC
