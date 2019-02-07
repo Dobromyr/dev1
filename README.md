@@ -1,1 +1,1 @@
-# dev1
+# Repo for DevOps courses
