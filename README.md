@@ -1,2 +1,2 @@
 # Repo for DevOps courses
-pull
+new pull
